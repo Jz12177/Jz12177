@@ -5,13 +5,13 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
  <tr>
  <th>系級</th>
  <th><img src="working.jpeg"></th>
- <th><a href="">學習履歷</a></th>
+ <th><a href="">畢業專題</a></th>
  <th><a href="https://chat.openai.com/">好友</a></th>
  </tr>
  <tr>
  <td><a href="https://hm.chu.edu.tw/index.php?Lang=zh-tw">觀光與會展學系</a></td>
  <td><a href="https://www.youtube.com/watch?v=dK9rBfbUETw">看我</a></td>
- <td><a href="">巨量資料處理</a></td>
+ <td><a href=""疫情後的台灣旅遊型態</a></td>
  <td>姚 O 伶</td>
  </tr>
  <tr>
