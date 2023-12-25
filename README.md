@@ -11,7 +11,7 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
  <tr>
  <td><a href="https://hm.chu.edu.tw/index.php?Lang=zh-tw">觀光與會展學系</a></td>
  <td><a href="https://www.youtube.com/watch?v=dK9rBfbUETw">看我</a></td>
- <td><a href=""疫情後的台灣旅遊型態</a></td>
+ <td><a href="">疫情後的台灣旅遊型態</a></td>
  <td>姚 O 伶</td>
  </tr>
  <tr>
